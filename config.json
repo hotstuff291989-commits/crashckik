@@ -1,0 +1,114 @@
+{
+  "engine_enabled": true,
+  "interstitial_every_n_actions": 3,
+  "interstitial_min_interval_ms": 60000,
+  "interstitial_min_watch_ms": 5000,
+  "rewarded_min_watch_ms": 15000,
+  "creatives": [
+    {
+      "id": "interstitial_1",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/Interstitial_1.png",
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Guide the chicken across the road, dodge obstacles and keep moving forward!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_2",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/Interstitial_2.png",
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Cross busy roads, avoid danger and help the chicken reach the other side!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_3",
+      "format": "image",
+      "placements": ["interstitial", "rewarded"],
+      "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/Interstitial_3.png",
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Move fast, time every step and master exciting chicken road challenges!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_text_1",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Your next chicken crossing adventure is ready to begin!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "interstitial_text_2",
+      "format": "text",
+      "placements": ["interstitial", "rewarded"],
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Help the chicken cross new roads and overcome exciting challenges!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "banner_1",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/BannerAd_1.png",
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Start your chicken crossing adventure!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "banner_2",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/BannerAd_2.png",
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Cross the road, dodge obstacles and keep the chicken moving!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "banner_3",
+      "format": "image",
+      "placements": ["banner"],
+      "image_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/BannerAd_3.png",
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "Time your moves and help the chicken reach the other side!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    },
+    {
+      "id": "banner_text_1",
+      "format": "text",
+      "placements": ["banner"],
+      "icon_url": "https://fluxaura-app.github.io/chik/house-ads/twmedia/icon.png",
+      "title": "Chickеn Game Online",
+      "body": "New roads, tricky obstacles and chicken adventures are waiting!",
+      "cta_text": "Install",
+      "bundle_id": "com.casinoaustria.eveningguide",
+      "weight": 1
+    }
+  ]
+}
